@@ -44,10 +44,9 @@ def hscode_recommend(model,tokenizer, input):
     
 
 if __name__ == '__main__':
-    prev = time.time()
+
     tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
     model = AutoModel.from_pretrained('sentence-transformers/all-MiniLM-L6-v2').cuda()
-    print('model get! ', time.time()-prev)
     
     with open('./data/hscode.pickle','r') as f:
         hscode_dict = json.load(f)
