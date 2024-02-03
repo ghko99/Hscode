@@ -26,3 +26,5 @@ python3 embedding.py
 python3 recommend.py
 ```
 ![recommend](image/recommend.png)
+
+
