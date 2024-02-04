@@ -27,4 +27,31 @@ python3 recommend.py
 ```
 ![recommend](image/recommend.png)
 
+## Reference
+```
+@article{
+  title={단어 임베딩을 활용한 빅데이터 기반의 지능형 HS코드 식별},
+  author={Hyo-Chang Woo,Young-Koo Lee}
+  journal={한국정보과학회 학술발표논문집}
+  year = {2019} 
+}
 
+@article{
+  title={언어모델 전이학습 기반 해외 직접 구매 상품군 분류},
+  author={Kyo-Joong Oh,Ho-Jin Choi,Wonseok Cha,Ilgu Kim,Chankyun Woo}
+  journal={한글 및 한국어 정보처리 학술대회 논문집}
+  year = {2022} 
+}
+
+@article{
+  title={언어모델 전이학습 기반 해외 직접 구매 상품군 분류},
+  author={Kyo-Joong Oh,Ho-Jin Choi,Wonseok Cha,Ilgu Kim,Chankyun Woo}
+  journal={한글 및 한국어 정보처리 학술대회 논문집}
+  year = {2022} 
+}
+```
+* [HS 오토팬](https://www.hs-tariff.com/main/hs_mti_ai_main/?device=pc)
+* [Cello Square(첼로 스퀘어)](https://www.cello-square.com/kr-ko/index.do)
+* https://huggingface.co/nreimers/MiniLM-L6-H384-uncased
+* https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+* [관세법령정보포털](https://unipass.customs.go.kr/clip/index.do)
