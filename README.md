@@ -35,14 +35,6 @@ python3 recommend.py
   journal={한국정보과학회 학술발표논문집}
   year = {2019} 
 }
-
-@article{
-  title={언어모델 전이학습 기반 해외 직접 구매 상품군 분류},
-  author={Kyo-Joong Oh,Ho-Jin Choi,Wonseok Cha,Ilgu Kim,Chankyun Woo}
-  journal={한글 및 한국어 정보처리 학술대회 논문집}
-  year = {2022} 
-}
-
 @article{
   title={언어모델 전이학습 기반 해외 직접 구매 상품군 분류},
   author={Kyo-Joong Oh,Ho-Jin Choi,Wonseok Cha,Ilgu Kim,Chankyun Woo}
