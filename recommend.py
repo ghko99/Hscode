@@ -14,7 +14,7 @@ def mean_pooling(model_output, attention_mask):
 
 def hscode_recommend(model,tokenizer, input):
     
-    with open('./data/train_emb.pickle' , 'rb') as f:
+    with open('./data/emb.pickle' , 'rb') as f:
         hscode = pickle.load(f) # [hscode, english, korean ,embedding]
     f.close()
     
