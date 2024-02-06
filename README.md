@@ -14,15 +14,15 @@
 ```bash
 python3 craw_data.py
 ```
-selenium 라이브러리를 활용 관세법령정보포털에서 약 51,000개의 HSCODE-품명 쌍 데이터 수집.
-실제 관세법령정보포털에서 정의하는 HSCODE와 그에따른 품명은 13,000개 정도지만 실제 품목 분류 사례 데이터도 추가해 총 51,000개 수집
 ![image](https://github.com/ghko99/Hscode/assets/115913818/0102d4ab-c16c-4f82-a923-9839fae71704)
 
+* selenium 라이브러리를 활용 관세법령정보포털에서 약 51,000개의 HSCODE-품명 쌍 데이터 수집.
+* 실제 관세법령정보포털에서 정의하는 HSCODE와 그에따른 품명은 13,000개 정도지만 실제 품목 분류 사례 데이터도 추가해 총 51,000개 수집
 
 ```bash
 python3 embedding.py
 ```
-[sentence-transformers](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)를 활용해 품목명 임베딩 벡터 추출 및 임베딩 파일 생성
+* [sentence-transformers](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)를 활용해 품목명 임베딩 벡터 추출 및 임베딩 파일 생성
 
 ## 임베딩 파일 예시
 ```
