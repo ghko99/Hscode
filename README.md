@@ -1,4 +1,5 @@
 ## 🚢 sentence-transformers를 활용한 HSCODE 자동 추천
+![1-ezgif com-speed](https://github.com/user-attachments/assets/3bf7a134-70ad-45ec-8b30-df29ac5b94ce)
 * HSCODE는 수출 물품의 품목 분류 코드
 * 기업은 통관절차를 밟기 위해 관세사에 화물의 HSCODE를 전달 해야함.
 * 하지만 11,000개가 넘는 HSCODE표를 일일이 확인하는 작업은 시간적 비용이 매우 큼
