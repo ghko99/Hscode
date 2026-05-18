@@ -13,3 +13,10 @@ venv/
 
 outputs/
 results/
+data/
+embeddings/
+*.pickle
+*.pkl
+*.csv
+*.xlsx
+*.jsonl
